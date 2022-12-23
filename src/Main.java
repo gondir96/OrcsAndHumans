@@ -31,6 +31,7 @@ public class Main {
         human.stat();
 
         fight(human, orc);
+        System.out.println("SZIA");
 
     }
 
